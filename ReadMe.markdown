@@ -126,3 +126,10 @@ In order to run the sample application, open the Hyprlinkr.sln solution and set 
 Credits
 -------
 The strongly typed Resource Linker idea was [originally presented by José F. Romaniello](http://joseoncode.com/2011/03/18/wcf-web-api-strongly-typed-resource-linker/).
+
+Contributing:
+### Grace 
+- Location: Canada
+- Bio: Software Developer
+- Github: https://github.com/Grace3579
+***
