@@ -12,7 +12,7 @@ name: "API Default",
 routeTemplate: "api/{controller}/{id}",
 defaults: new { id = RouteParameter.Optional }
 ```
-In that case, you can create an URI to a the resource handled by the FooController.GetById Action Method like this:
+In that case, you can create an URI to the resource handled by the FooController.GetById Action Method like this:
 ```C#
 var uri = linker.GetUri<FooController>(r => r.GetById(1337));
 ```
